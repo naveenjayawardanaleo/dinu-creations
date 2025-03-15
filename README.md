@@ -89,7 +89,7 @@ Contact Us
     bash
  
     
-    git clone https://github.com/your-username/project.git
+    git clone https://github.com/naveenjayawardanaleo/dinu-creations
     
 2.  **Open  `index.php`**  in your browser to view the website.
     
