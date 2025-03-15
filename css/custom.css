@@ -1,0 +1,21 @@
+header#pq-header .pq-bottom-header .navbar .navbar-brand img {
+    height: auto;
+    width: 325px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    header#pq-header .pq-bottom-header .navbar .navbar-brand img {
+        height: auto;
+        width: 225px;
+    }
+
+    .pq-section.pq-style-1 .pq-section-title {
+        font-size: 25px;
+        line-height: 1.3;
+    }
+
+
+
+  }
+
